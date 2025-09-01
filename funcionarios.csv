@@ -1,0 +1,13 @@
+Nome;Cargo; Salario ;Data_admissao;Setor
+Ana Souza;Analista;5000;19/02/2003;Financeiro
+Carlos Lima ;Gerente;6500;01/05/2001;Comercial
+João da Silva;Assistente;1800;15/06/2015;Recursos Humanos
+Wlidemberg de Sousa;Desenvolvedor;8000;01/06/2001;Desenvolvimento
+Luiz Silverio;Estagiario;2500;15/08/2022;Desenvolvimento
+Janaina Ramos;Vendedor;2650;06/09/2021;Comercial
+Thamires Ferreira;Contador;9650;07/08/2019;Financeiro
+Leandro Sousa;Desenvolvedor;7450;09/06/2022;Desenvolvimento
+Yasmim Sousa;Desenvolvedor;6500;01/11/2024;Desenvolvimento
+Lucas Almeida;Analista;5800;05/09/2000;Financeiro
+Sebastião Justino;Auxiliar;1750;05/08/1999;Limpeza e Manutenção
+Ultimo Funcionário;Auxiliar;1750;10/02/2022;Limpeza e Manutenção

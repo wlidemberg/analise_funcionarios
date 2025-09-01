@@ -1,0 +1,1 @@
+sys.stdout.reconfigure(encoding='cp1252')
