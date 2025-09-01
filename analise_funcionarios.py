@@ -9,7 +9,7 @@ try:
 except UnicodeDecodeError:
     df = pd.read_csv('funcionarios.csv', encoding='cp1252', sep=';') 
 
-# Padronizar colinas
+# Padronizar colunas
 df.columns = df.columns.str.strip().str.lower() 
 
 # Converte datas
