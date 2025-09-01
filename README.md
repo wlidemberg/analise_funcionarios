@@ -17,7 +17,7 @@ Projeto desenvolvido com **Aprendizado Baseado em Projetos (PBL)**, cujo objetiv
 - Conversão da coluna `Data_admissao` para o formato de **data real** (`datetime`).  
 - Análises estatísticas:  
   - Quantidade de funcionários.  
-  - Média salarial geral.  
+  - Média salarial geral 
   - Maior e menor salário.  
   - Funcionário mais antigo da empresa.  
 - Agrupamento por setor, mostrando quantos funcionários existem em cada área.  
